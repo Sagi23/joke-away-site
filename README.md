@@ -17,4 +17,13 @@ better understanding on how to read API docs.
 
 
 the site:
-[![Netlify Status](https://api.netlify.com/api/v1/badges/965df364-dee2-46ce-8911-6c53484e3f75/deploy-status)](https://app.netlify.com/sites/joke-away/deploys)
+https://joke-away.netlify.app/
+
+the mockup:
+![mockup](https://user-images.githubusercontent.com/73761063/97835328-91d87200-1ce2-11eb-92d7-6fb5f4416042.png)
+
+the desktop v:
+![myFile (2)](https://user-images.githubusercontent.com/73761063/97836153-52ab2080-1ce4-11eb-9d11-a8ebb3116335.gif)
+
+the mobile v:
+![myFile](https://user-images.githubusercontent.com/73761063/97836161-56d73e00-1ce4-11eb-9620-3fd42bba456e.gif)
