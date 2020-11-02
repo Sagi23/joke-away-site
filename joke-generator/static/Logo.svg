@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 271.584 40.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 35px;
+        font-family: ArialMT, Arial;
+        text-decoration: underline;
+      }
+
+      .cls-2 {
+        fill: #00ffe5;
+      }
+
+      .cls-3 {
+        fill: #abff00;
+      }
+
+      .cls-4 {
+        fill: #ff0;
+      }
+    </style>
+  </defs>
+  <g id="Logo" transform="translate(-140 -108.9)">
+    <text id="Jokes_Away" data-name="Jokes Away" class="cls-1" transform="translate(140 140.9)"><tspan x="0" y="0">Jokes Away</tspan></text>
+    <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-2" width="18.227" height="20.05" rx="9.114" transform="translate(338.676 128.95)"/>
+    <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-3" width="20.05" height="20.05" rx="10.025" transform="translate(364.194 128.95)"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-4" width="20.05" height="20.05" rx="10.025" transform="translate(391.534 128.95)"/>
+  </g>
+</svg>
